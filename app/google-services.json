@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084524196335",
+    "project_id": "knkotilin",
+    "storage_bucket": "knkotilin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084524196335:android:c05f4c67722e6a2d32c61a",
+        "android_client_info": {
+          "package_name": "com.example.constraint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084524196335-kgnv4h37359dg22kvk9iffr957qfaic3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8W031sUdYgyr5uQon0xwWKL0T_VjYh0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084524196335-kgnv4h37359dg22kvk9iffr957qfaic3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
